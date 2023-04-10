@@ -4,3 +4,8 @@
 logs
 *.log
 .DS_Store
+.idea/codeStyles/codeStyleConfig.xml
+.idea/codeStyles/Project.xml
+.idea/modules.xml
+.idea/NoSleep.js.iml
+.idea/vcs.xml
